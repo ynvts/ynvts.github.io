@@ -1,0 +1,287 @@
+@font-face {
+    font-family: orator;
+    src: url(font/OratorStd.otf);
+}
+
+@font-face {
+    font-family: perpetua;
+    src: url(font/perpeta.ttf);
+}
+
+@font-face {
+    font-family: prestige;
+    src: url(font/PrestigeEliteStd.otf);
+}
+
+body {
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.89);
+}
+
+/* header */
+img {
+    height: 445px;
+    margin-top: 110px;
+}
+
+.cv {
+    color: white;
+    font-family: prestige;
+    margin-top: -343px;
+    margin-left: 771px;
+    width: 20px;
+    line-height: 80px;
+    font-size: 50px;
+}
+
+.hm {
+    color: white;
+    font-family: orator;
+    margin-top: 197px;
+    margin-left: 184px;
+}
+
+/* layer2 */
+.hi {
+    color: white;
+    font-family: prestige;
+    margin-top: -397px;
+    margin-left: 190px;
+}
+
+.isi {
+    color: white;
+    font-family: perpetua;
+    margin-top: -14px;
+    margin-left: 190px;
+    width: 413px;
+}
+
+.am {
+    color: white;
+    font-family: orator;
+    margin-top: -198px;
+    margin-left: 1261px;
+    text-orientation: upright;
+    writing-mode: vertical-lr;
+}
+
+.pt2 {
+    height: 465px;
+    margin-top: 151px;
+    margin-left: 998px;
+}
+
+.pp {
+    height: 311px;
+    margin-left: 860px;
+    margin-top: -395px;
+}
+
+/* layer3 */
+.pt3 {
+    height: 540px;
+    margin-top: 365px;
+}
+
+.port {
+    color: white;
+    font-family: prestige;
+    margin-top: -622px;
+    margin-left: 332px;
+}
+
+.isi2 {
+    color: white;
+    font-family: perpetua;
+    margin-top: 175px;
+    margin-left: 713px;
+}
+
+.pt {
+    color: white;
+    font-family: orator;
+    text-orientation: upright;
+    writing-mode: vertical-lr;
+    margin-top: -49px;
+    margin-left: 94px;
+}
+
+/* layer4 */
+.pt4 {
+    height: 647px;
+    margin-left: 283px;
+    margin-top: 456px;
+}
+
+.pg {
+    color: white;
+    font-family: prestige;
+    margin-top: -255px;
+    margin-left: 283px;
+}
+
+.isi3{
+    color: white;
+    font-family: perpetua;
+    margin-left: 283px;
+    margin-top: -14px;
+}
+
+.date {
+    color: white;
+    font-family: perpetua;
+    margin-left: 283px;
+    margin-top: -21px;
+    font-size: 27px;
+}
+
+/* layer5 */
+.pt5 {
+    margin-top: 373px;
+    margin-left: 59px;
+    height: 618px
+}
+
+.vt {
+    color: white;
+    margin-top: -237px;
+    margin-left: 761px;
+    font-family: prestige;
+}
+
+.isi4 {
+    color: white;
+    font-family: perpetua;
+    margin-left: 761px;
+    margin-top: -15px;
+}
+
+.from {
+    color: white;
+    font-family: perpetua;
+    margin-left: 761px;
+    margin-top: -23px;
+}
+
+/* layer6 */
+.pt6 {
+    height: 391px;
+    margin-left: 137px;
+    margin-top: 471px;
+}
+
+.dw {
+    color: white;
+    font-family: prestige;
+    margin-top: -477px;
+    margin-left: 136px
+}
+
+.isi5 {
+    color: white;
+    font-family: perpetua;
+    margin-top: -16px;
+    margin-left: 136px;
+    font-size: 27px;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    padding: 10px 500px;
+    color: white;
+    margin-top: 400px;
+    margin-left: -473px;
+    font-size: 27px;
+}
+
+li {
+    padding:  0px 107px;
+    z-index: 1;
+}
+
+/* layer7 */
+.pt7 {
+    height: 558px;
+    margin-top: 185px;
+    margin-left: 66px;
+}
+
+.td {
+    color: white;
+    font-family: prestige;
+    margin-top: -91px;
+    margin-left: 766px;
+}
+
+.isi6 {
+    color: white;
+    font-family: perpetua;
+    margin-top: -20px;
+    margin-left: 766px;
+}
+
+.date2 {
+    color: white;
+    font-family: perpetua;
+    margin-top: -21px;
+    margin-left: 766px;
+}
+
+.date3 {
+    color: white;
+    font-family: perpetua;
+    margin-top: -13px;
+    margin-left: 64px;
+}
+
+/* layer8 */
+.pt8 {
+    height: 515px;
+    margin-top: 209px;
+}
+
+.ct {
+    color: white;
+    font-family: prestige;
+    margin-top: -535px;
+    margin-left: 282px;
+}
+
+.con {
+    color: white;
+    font-family: orator;
+    margin-top: 519px;
+    margin-left: 606px;
+}
+
+.ph {
+    margin-top: -859px;
+    margin-left: 152px;
+    font-family: prestige;
+}
+
+.no {
+    margin-top: -822px;
+    margin-left: -294px;
+    font-family: perpetua;
+}
+
+.em {
+    margin-top: -1135px;
+    margin-left: 152px;
+    font-family: prestige;
+}
+
+.st {
+    margin-top: -1101px;
+    margin-left: -294px;
+    font-family: perpetua;
+}
+
+.ftr {
+    margin-top: -1419px;
+    margin-left: 1078px;
+    height: 198px;
+}

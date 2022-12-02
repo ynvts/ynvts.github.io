@@ -1,0 +1,183 @@
+body {
+    margin: auto;
+    background-color: rgba(231, 231, 231, 0.89);
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 50px;
+}
+
+.menu {
+    display: flex;
+    list-style: none;
+    padding: 10px 500px;
+    color: whitesmoke;
+}
+
+li {
+    padding:  0px 20px;
+    z-index: 1;
+}
+
+.cv {
+    margin-left: 885px;
+    font-size: 50px;
+    margin-top: 317px;
+}
+
+img {
+    margin-top: -537px;
+    height: 635px;
+}
+
+.menu2 {
+    margin-bottom: -55px;
+    display: flex;
+    list-style: none;
+    padding: 10px 500px;
+    color: whitesmoke;
+}
+
+.layer2 {
+    background-color: rgb(22, 22, 22);
+    height: 622px;
+    margin-top: -2px;
+}
+
+.intro {
+    color: whitesmoke;
+    font-size: 25px;
+    width: 455px;
+    margin-left: 104px;
+    text-align: center;
+}
+
+.dg {
+    height: 273px;
+    margin-left: 180px;
+    margin-top: 65px;
+    padding-bottom: 25px;
+}
+
+.rec {
+    height: 15px;
+    margin-left: -285px;
+    margin-bottom: -10px;
+}
+
+.g2 {
+    height: 200px;
+    margin-left: 680px;
+    margin-top: -474px;
+}
+
+.g3 {
+    height: 183px;
+    margin-left: 670px;
+    margin-top: -200px;
+}
+
+.pil {
+    list-style: none;
+    padding: 5px 650px;
+    margin-top: -530px;
+    color: whitesmoke;
+}
+
+.pil li {
+    padding: 30px;
+}
+
+.pil2 {
+    list-style: none;
+    margin-top: -720px;
+    padding: 20px 484px;
+    color: whitesmoke;
+    font-size: 25px;
+}
+
+.pil2 li {
+    padding: 140px;
+}
+
+.layer3 {
+    background-color: rgba(231, 231, 231, 0.89);
+    height: 602px;
+    margin-top: 45px;
+}
+
+.menu3 {
+    display: flex;
+    list-style: none;
+    padding: 25px 500px;
+    color: rgb(22, 22, 22);
+}
+
+.g4 {
+    margin-top: 45px;
+    margin-left: 185px;
+    height: 335px;
+}
+
+.pil3 {
+    list-style: none;
+    display: flex;
+    font-size: 25px;
+    padding: 0px 200px;
+}
+
+b {
+    padding: 0px 55px;
+}
+
+.layer4 {
+    background-color: rgb(119, 103, 87);
+    height: 610px;
+}
+
+.menu4 {
+    display: flex;
+    list-style: none;
+    padding: 25px 500px;
+    color: rgb(22, 22, 22);
+}
+
+.g5 {
+   height: 450px; 
+   margin-top: 76px;
+   margin-left: 715px;
+}
+
+.pil4 {
+    list-style: none;
+    font-size: 30px;
+    margin-top: -388px;
+    margin-left: 120px;
+    font-size: 30px;
+}
+
+.pil4 b {
+    margin-left: -55px;
+}
+
+.pil4 li {
+    padding-bottom: 5px;
+}
+
+.pil5 {
+    list-style: none;
+    font-size: 30px;
+    margin-top: -275px;
+    margin-left: 120px;
+    font-size: 30px; 
+}
+
+.pil5 b {
+    margin-left: -55px;
+}
+
+.pil5 li {
+    padding-bottom: 5px;
+}
