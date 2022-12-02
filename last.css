@@ -1,16 +1,16 @@
 @font-face {
     font-family: orator;
-    src: url(font/OratorStd.otf);
+    src: url(OratorStd.otf);
 }
 
 @font-face {
     font-family: perpetua;
-    src: url(font/perpeta.ttf);
+    src: url(perpeta.ttf);
 }
 
 @font-face {
     font-family: prestige;
-    src: url(font/PrestigeEliteStd.otf);
+    src: url(PrestigeEliteStd.otf);
 }
 
 body {
